@@ -1,9 +1,10 @@
 import './App.css'
 import MyCard from "./Card.jsx"
+import meny from "./Data.jsx"
 function App() {
  return (
   <>
-  <MyCard name ="Hector" age={41} />
+  <MyCard meny = {meny.tittle} />
   </>
  )
 
