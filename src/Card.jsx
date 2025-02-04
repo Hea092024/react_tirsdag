@@ -7,3 +7,5 @@ const myCard = () =>{
         </div>
     )
 }
+
+export default myCard
