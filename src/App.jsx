@@ -3,7 +3,7 @@ import MyCard from "./Card.jsx"
 function App() {
  return (
   <>
-  <MyCard />
+  <MyCard name ="Hector" age={41} />
   </>
  )
 

@@ -1,10 +1,10 @@
 import "./Card.css"
-const myCard = () =>{
+const myCard = (props) =>{
     return (
         <div id="card_holder">
             <h1>Test</h1>
-            <p>p1</p>
-            <p>p2</p>
+            <p>{props.name}</p>
+            <p>{props.age}</p>
         </div>
     )
 }
