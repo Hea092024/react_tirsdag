@@ -4,6 +4,8 @@ const meny =
     tittle: "spaghetti Bolognese",
     pris: "159 kr",
     ingredienser: "spaghetti, kjøttsaus, parmesan",
-    rett: "hovedrett"
+    kategori: "hovedrett"
     
 }
+
+export default meny
