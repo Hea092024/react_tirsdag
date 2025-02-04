@@ -1,5 +1,5 @@
 import './App.css'
-import { } from "./Card.jsx"
+import MyCard from "./Card.jsx"
 function App() {
  return (
   <>
